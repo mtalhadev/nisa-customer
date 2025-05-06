@@ -1,0 +1,2 @@
+D:/Woman Yango/Furkan bhai/android/app/.cxx/RelWithDebInfo/1q5t702g/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/Woman Yango/Furkan bhai/android/app/.cxx/RelWithDebInfo/1q5t702g/armeabi-v7a/CMakeFiles/rebuild_cache.dir

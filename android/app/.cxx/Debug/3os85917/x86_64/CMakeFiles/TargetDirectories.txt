@@ -1,0 +1,2 @@
+D:/Woman Yango/Furkan bhai/android/app/.cxx/Debug/3os85917/x86_64/CMakeFiles/edit_cache.dir
+D:/Woman Yango/Furkan bhai/android/app/.cxx/Debug/3os85917/x86_64/CMakeFiles/rebuild_cache.dir
